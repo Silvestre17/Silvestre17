@@ -32,6 +32,8 @@ Fluent in **Python**, but my debugging skills are still learning the language! ð
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
+  <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   </a>
@@ -88,6 +90,9 @@ Fluent in **Python**, but my debugging skills are still learning the language! ð
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <!-- XGBoost/LightGBM/CatBoost (para boosting em modelos de ML)   -->
+  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/XGBoost/LightGBM/CatBoost-232F3E?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost/LightGBM/CatBoost"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -106,6 +111,14 @@ Fluent in **Python**, but my debugging skills are still learning the language! ð
   </a>
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
+  </a>
+  <!-- Web Scraping Libraries -->
+  <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />
+  </a>
+  <!-- Selenium  -->
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   </a>
 </p>
 
@@ -126,6 +139,18 @@ Fluent in **Python**, but my debugging skills are still learning the language! ð
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  </a>
+  <a href="https://www.vscode.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
 </p>
 
@@ -165,7 +190,7 @@ Fluent in **Python**, but my debugging skills are still learning the language! ð
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
   </a>
   <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" alt="RStudio" />
     </a>
 </p>
 
