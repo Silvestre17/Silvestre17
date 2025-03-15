@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm André Silvestre</h1>
 
-A budding 🚀 Data Scientist/Engineer hailing from the enchanting lands of 🇵🇹. I have a degree in 📊 **[Data Science from ISCTE](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** and I started a **[Master's degree in 📈 Data Science and Advanced Analytics, specializing in DS at NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)**. 🎓 
+A budding 🚀 Data Scientist/Engineer hailing from the enchanting lands of 🇵🇹. I have a degree in 📊 **[Data Science from ISCTE](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** and I started a **[Master's degree in 📈 Data Science and Advanced Analytics, specializing in DS at NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)**. 🎓
 
-I consider myself introverted 🤫 but communicative 💬, and very perfectionist 🎯 in everything I do. 
+I consider myself introverted 🤫 but communicative 💬, and very perfectionist 🎯 in everything I do.
 
-Although I've never had any work experience 👨‍💻, I consider myself to be hard-working 💪 and self-taught 📚, and in every project I undertake, 
+Although I've never had any work experience 👨‍💻, I consider myself to be hard-working 💪 and self-taught 📚, and in every project I undertake,
 
 I always try my best. I love technology 🖥️, news 🗞️, and knowledge 🧠, which is why I took the Data Science course. At the moment, I'm interested in areas such as 🤖 Deep Learning and AI! 🚀</h3>
 
@@ -21,7 +21,6 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
 - 📚 I'm currently learning **Deep Learning and AI**
 
 <br>
-
 
 <h2 align="left">🧠 Languages:</h2>
 
@@ -124,9 +123,6 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  </a>
 </p>
 
 <h2 align="left">🤖 AI Assistants & Productivity:</h2>
@@ -135,6 +131,15 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   </a>
+  <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Mistral_AI-FF6600?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral AI" />
+    </a>
+    <a href="https://x.ai/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+    </a>
+    <a href="https://aistudio.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+    </a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Copilot-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
   </a>
@@ -160,20 +165,11 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
     </a>
 </p>
 
-
-
----
-
 <h2 align="left">GitHub Stats:</h2>
 
-
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silvestre17&show_icons=true&theme=&hide=prs,issues,contribs&hide_rank=True" alt="Silvestre17" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silvestre17&show_icons=true&theme=transparent&hide=prs,issues,contribs&hide_rank=True" alt="Silvestre17" />
 </p>
-
----
 
 <br>
 
@@ -181,9 +177,8 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
 
 <!--START_SECTION:waka-->
 
-<center>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=transparent" alt="Silvestre17" />
+</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
 <!--END_SECTION:waka-->
