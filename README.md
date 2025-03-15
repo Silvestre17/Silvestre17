@@ -14,7 +14,7 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
 
 - 👨‍💻 All of my projects are available at [Gihthub Repository](https://github.com/Silvestre17?tab=repositories)
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/andrefgsilvestre/)** <a href="https://linkedin.com/in/andrefgsilvestre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrefgsilvestre" height="20" style="margin-bottom: 10px;margin-left: 5px"/></a>
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/andrefgsilvestre/)** <a href="https://linkedin.com/in/andrefgsilvestre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrefgsilvestre" height="20" style="margin-bottom: 15px;margin-left: 5px"/></a>
 
 - ⚡ Fun fact: I love cooking 🍳 and learning more about everything 🔍, because *"The important thing is not to stop questioning"* 🧠💡 (Einstein).
 
@@ -38,4 +38,5 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
 <h2 align="left">WakaTime Stats:</h2>
 
 <!--START_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
