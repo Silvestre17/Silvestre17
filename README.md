@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm André Silvestre</h1>
+<h1 align="center">Olá! 👋, I'm André Silvestre</h1>
 
-A budding 🚀 Data Scientist/Engineer hailing from the enchanting lands of 🇵🇹. I have a degree in 📊 **[Data Science from ISCTE](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** and I started a **[Master's degree in 📈 Data Science and Advanced Analytics, specializing in DS at NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)**. 🎓
+Aspiring 🚀 Data Scientist/Engineer navigating the world of data from the land of pastéis de nata 🇵🇹. I have a degree in 📊 **[Data Science from ISCTE](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** and I started a **[Master's degree in 📈 Data Science and Advanced Analytics, specializing in DS at NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)**. 🎓
 
-I consider myself introverted 🤫 but communicative 💬, and very perfectionist 🎯 in everything I do.
+I consider myself introverted 🤫 but communicative 💬, and very perfectionist 🎯 (<cite style="font-size: 13px;">Yes, even aligning my Jupyter Notebook cells perfectly!</cite>) in everything I do. 
+<cite style="font-size: 13px;">Think of me as a meticulous algorithm – I'm always optimizing!</cite>
 
-Although I've never had any work experience 👨‍💻, I consider myself to be hard-working 💪 and self-taught 📚, and in every project I undertake,
+Still waiting for my first official job, but my projects work overtime! 👨‍💻, I consider myself to be hard-working 💪 and self-taught 📚, and in every project I undertake,
 
 I always try my best. I love technology 🖥️, news 🗞️, and knowledge 🧠, which is why I took the Data Science course. At the moment, I'm interested in areas such as 🤖 Deep Learning and AI! 🚀</h3>
+
+Fluent in **Python**, but my debugging skills are still learning the language! 🐍
 
 <h2 align="left">About me:</h2>
 
@@ -14,15 +17,16 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
 
 - 👨‍💻 All of my projects are available at [Gihthub Repository](https://github.com/Silvestre17?tab=repositories)
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/andrefgsilvestre/)** <a href="https://linkedin.com/in/andrefgsilvestre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrefgsilvestre" height="20" style="margin-bottom: 15px;margin-left: 5px"/></a>
-
-- ⚡ Fun fact: I love cooking 🍳 and learning more about everything 🔍, because *"The important thing is not to stop questioning"* 🧠💡 (Einstein).
+- ⚡ Fun fact: I love cooking 🍳 (<cite style="font-size: 13px;">still waiting for the day when AI can perfectly season my dishes</cite>) and learning more about everything 🔍, because *"The important thing is not to stop questioning"* 🧠💡 (Einstein).
 
 - 📚 I'm currently learning **Deep Learning and AI**
+
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/andrefgsilvestre/)** <a href="https://linkedin.com/in/andrefgsilvestre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrefgsilvestre" height="20" style="margin-bottom: 5px;margin-left: 7px"/></a>
 
 <br>
 
 <h2 align="left">🧠 Languages:</h2>
+
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -168,7 +172,7 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
 <h2 align="left">GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silvestre17&show_icons=true&theme=transparent&hide=prs,issues,contribs&hide_rank=True" alt="Silvestre17" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silvestre17&show_icons=true&theme=dark&icon_color=4c71f2&hide=prs,issues,contribs&hide_rank=True" alt="Silvestre17" />
 </p>
 
 <br>
@@ -178,7 +182,9 @@ I always try my best. I love technology 🖥️, news 🗞️, and knowledge �
 <!--START_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=transparent" alt="Silvestre17" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" />
 </p>
 
 <!--END_SECTION:waka-->
+
+
