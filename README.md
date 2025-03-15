@@ -2,8 +2,8 @@
 
 Aspiring 🚀 Data Scientist/Engineer navigating the world of data from the land of pastéis de nata 🇵🇹. I have a degree in 📊 **[Data Science from ISCTE](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** and I started a **[Master's degree in 📈 Data Science and Advanced Analytics, specializing in DS at NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)**. 🎓
 
-I consider myself introverted 🤫 but communicative 💬, and very perfectionist 🎯 (<cite style="font-size: 13px;">Yes, even aligning my Jupyter Notebook cells perfectly!</cite>) in everything I do. 
-<cite style="font-size: 13px;">Think of me as a meticulous algorithm – I'm always optimizing!</cite>
+I consider myself introverted 🤫 but communicative 💬, and very perfectionist 🎯 (<span style="font-size: 13px;"><i>Yes, even aligning my Jupyter Notebook cells perfectly!</i></span>) in everything I do. 
+<span style="font-size: 13px;"><i>Think of me as a meticulous algorithm – I'm always optimizing!</i></span>
 
 Still waiting for my first official job, but my projects work overtime! 👨‍💻, I consider myself to be hard-working 💪 and self-taught 📚, and in every project I undertake,
 
@@ -17,7 +17,7 @@ Fluent in **Python**, but my debugging skills are still learning the language! �
 
 - 👨‍💻 All of my projects are available at [Gihthub Repository](https://github.com/Silvestre17?tab=repositories)
 
-- ⚡ Fun fact: I love cooking 🍳 (<cite style="font-size: 13px;">still waiting for the day when AI can perfectly season my dishes</cite>) and learning more about everything 🔍, because *"The important thing is not to stop questioning"* 🧠💡 (Einstein).
+- ⚡ Fun fact: I love cooking 🍳 (<span style="font-size: 13px;"><i>still waiting for the day when AI can perfectly season my dishes</i></span>) and learning more about everything 🔍, because *"The important thing is not to stop questioning"* 🧠💡 (Einstein).
 
 - 📚 I'm currently learning **Deep Learning and AI**
 
@@ -180,11 +180,7 @@ Fluent in **Python**, but my debugging skills are still learning the language! �
 <h2 align="left">WakaTime Stats:</h2>
 
 <!--START_SECTION:waka-->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" />
 </p>
-
 <!--END_SECTION:waka-->
-
-
