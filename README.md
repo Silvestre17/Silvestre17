@@ -204,14 +204,6 @@ Fluent in **Python**, but my debugging skills are still learning the language! �
 
 <h2 align="left">WakaTime Stats:</h2>
 
-<!--START_SECTION:waka-->
-
-```txt
-Python       37 hrs 3 mins   ████████████████████████▒   97.57 %
-Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Text         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" />
+</p>
