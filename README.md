@@ -204,11 +204,12 @@ Fluent in **Python**, but my debugging skills are still learning the language! �
 
 <h2 align="left">WakaTime Stats:</h2>
 
+<p align="center">
+
 <!-- WAKATIME:START -->
 <!-- Conteúdo atualizado pela Action aparecerá aqui -->
 <!-- WAKATIME:END -->
 
-<p align="center">
   <!-- A tua imagem WakaTime antiga pode ficar aqui ou ser removida se preferires os stats gerados pela Action -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" /> -->
 </p>
