@@ -206,10 +206,10 @@ Fluent in **Python**, but my debugging skills are still learning the language! �
 
 <p align="center">
 
-  `<!--START_SECTION:waka-->
+  <!-- START_SECTION:waka-->
   <!-- Conteúdo atualizado pela Action aparecerá aqui -->
-  <!--END_SECTION:waka-->
+  <!--END_SECTION:waka -->
 
   <!-- A tua imagem WakaTime antiga pode ficar aqui ou ser removida se preferires os stats gerados pela Action -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" />
 </p>
