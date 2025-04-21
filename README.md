@@ -207,8 +207,16 @@ Fluent in **Python**, but my debugging skills are still learning the language! �
 <p align="center">
 
   `<!--START_SECTION:waka-->
-  <!-- Conteúdo atualizado pela Action aparecerá aqui -->
-  <!--END_SECTION:waka-->
+
+```txt
+Python       29 hrs 33 mins  █████████████████████████   99.57 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
+<!--END_SECTION:waka-->
 
   <!-- A tua imagem WakaTime antiga pode ficar aqui ou ser removida se preferires os stats gerados pela Action -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" /> -->
