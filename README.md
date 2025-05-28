@@ -93,13 +93,7 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
   <!-- XGBoost/LightGBM/CatBoost (para boosting em modelos de ML)   -->
   <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/XGBoost/LightGBM/CatBoost-232F3E?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost/LightGBM/CatBoost"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  </a>
+  </a><br>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   </a>
@@ -108,7 +102,7 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  </a>
+  </a><br>
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
   </a>
@@ -121,6 +115,28 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   </a>
 </p>
+
+<h2 align="left">ğŸ«§ Deep Learning:</h2>
+
+<p align="center">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hugging_Face-FF6F20?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  </a>
+  <!-- LangChain -->
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+    </a>
+</p>
+
 
 <h2 align="left">ğŸ› ï¸ Tools/Frameworks:</h2>
 
@@ -139,10 +155,7 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </a>
+  </a><br>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   </a>
@@ -160,14 +173,14 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   </a>
-  <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Mistral_AI-FF6600?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral AI" />
-    </a>
     <a href="https://x.ai/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
-    </a>
+   </a>
     <a href="https://aistudio.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+   </a> <br>
+  <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Mistral_AI-FF6600?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral AI" />
     </a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Copilot-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
@@ -212,4 +225,5 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
 
   <!-- A tua imagem WakaTime antiga pode ficar aqui ou ser removida se preferires os stats gerados pela Action -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" />
+
 </p>
