@@ -106,11 +106,22 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
   </a>
+  <!-- Network Analysis -->
+  <a href="https://igraph.org/r/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/igraph-3E9A42?style=for-the-badge" alt="igraph" />
+  </a>
+  <a href="https://networkx.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/NetworkX-2B7CE9?style=for-the-badge" alt="NetworkX" />
+  </a>
+  <!-- Optimization -->
+  <a href="https://pulp.erik-nielsen.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/PuLP-2C3E50?style=for-the-badge" alt="PuLP" />
+  </a>
+  <br>
   <!-- Web Scraping Libraries -->
   <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />
   </a>
-  <!-- Selenium  -->
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   </a>
@@ -141,6 +152,12 @@ Fluent in **Python**, but my debugging skills are still learning the language! ğ
 <h2 align="left">ğŸ› ï¸ Tools/Frameworks:</h2>
 
 <p align="center">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
