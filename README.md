@@ -1,4 +1,7 @@
-<h1 align="center">Olá! 👋, I'm André Silvestre</h1>
+<h1 align="center">Olá! 👋, I'm 
+  
+  **[André Silvestre](https://silvestre17.github.io/)**
+</h1>
 
 Aspiring 🚀 Data Scientist/Engineer navigating the world of data from the land of pastéis de nata 🇵🇹. I have a degree in 📊 **[Data Science from ISCTE](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** and I started a **[Master's degree in 📈 Data Science and Advanced Analytics, specializing in DS at NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)**. 🎓
 
