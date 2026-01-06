@@ -230,7 +230,7 @@ Fluent in **Python**, but my debugging skills are still learning the language! ð
 <h2 align="left">GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silvestre17&show_icons=true&theme=dark&icon_color=4c71f2&hide=prs,issues,contribs&hide_rank=True&count_private=true" alt="Silvestre17" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Silvestre17&show_icons=true&theme=dark&icon_color=4c71f2&hide=prs,issues,contribs&hide_rank=True&count_private=true" alt="Silvestre17" />
 </p>
 
 <br>
@@ -244,6 +244,6 @@ Fluent in **Python**, but my debugging skills are still learning the language! ð
   <!--END_SECTION:waka -->
 
   <!-- A tua imagem WakaTime antiga pode ficar aqui ou ser removida se preferires os stats gerados pela Action -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Silvestre17&theme=dark&title_color=4c71f2" alt="Silvestre17" />
 
 </p>
