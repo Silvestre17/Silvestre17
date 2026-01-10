@@ -1,5 +1,4 @@
 <h1 align="center">Olá! 👋, I'm 
-  
   **[André Silvestre](https://silvestre17.github.io/)**
 </h1>
 
