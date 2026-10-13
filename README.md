@@ -15,7 +15,9 @@ Fluent in **Python**, but my debugging skills are still learning the language! �
 
 - 🎓 Finishing my **[MSc in Data Science and Advanced Analytics @ NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)** — Academic Merit Honor Roll 2024/2025 (GPA: 19.2/20)
 
-- 🏙️ Master's Thesis: **LISBOA** — LLM-powered multi-agent system that builds real-time itineraries for Lisbon using 6 specialised agents, live transport data, IPMA weather & multilingual RAG
+- 🏙️ Master's Thesis: **[LISBOA](https://github.com/Silvestre17/LISBOA_MultiAgentSystem)** — LLM-powered multi-agent system that builds real-time itineraries for Lisbon using 6 specialised agents, live transport data, IPMA weather & multilingual RAG
+
+- 📄 Published: *[A multi-agent approach for context-aware tourism and urban mobility guidance](https://doi.org/10.1016/j.rineng.2026.113369)*, **Results in Engineering** 32 (2026) 113369 · Software: [Zenodo DOI](https://doi.org/10.5281/zenodo.23322220)
 
 - 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/Silvestre17?tab=repositories)
 
